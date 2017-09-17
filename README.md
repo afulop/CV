@@ -39,17 +39,17 @@ Summer 2010                   Camping de Paal   Bergeijk
 ## Skills
 **Languages**
 *Speaking*
-Dutch       Native
-English     Near Native
-French      Basic
+- Dutch       Native
+- English     Near Native
+- French      Basic
 
 *Reading/Writing*
-Dutch       Native
-English     Near Native
-French      Basic
+- Dutch       Native
+- English     Near Native
+- French      Basic
 
 **Experience**
-Word        Expert
-Powerpoint  Expert
-Excel       Expert
-Indesign    Basics
+- Word        Expert
+- Powerpoint  Expert
+- Excel       Expert
+- Indesign    Basics
